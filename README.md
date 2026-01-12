@@ -24,3 +24,4 @@
     - 工程9で作った.appファイルをsimulatorの中にインストール
 11. `xcrun simctl launch booted [バンドルID]`
     - 画面に表示
+コードを書き換えたさいは工程9から11まで
