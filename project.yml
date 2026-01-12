@@ -1,0 +1,12 @@
+name: ButtonApp
+
+options:
+  bundleIdPrefix: com.example
+
+targets:
+  TerminalApp:
+    type: application
+    platform: iOS
+    sources: [ButtonApp]
+    settings:
+        GENERATE_INFOPLIST_FILE: YES
