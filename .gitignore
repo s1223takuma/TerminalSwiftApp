@@ -2,6 +2,7 @@
 DerivedData/
 build/
 *.xcresult
+ButtonApp.xcodeproj/
 
 # User-specific Xcode settings
 *.xcuserstate
