@@ -2,6 +2,13 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello from terminal")
+        Text("Hello world")
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(.white)
+            .ignoresSafeArea()
     }
+}
+
+#Preview{
+    ContentView()
 }
